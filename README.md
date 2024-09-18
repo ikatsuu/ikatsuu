@@ -1,4 +1,5 @@
-## Hi there 👋
+##⚡ Fun fact:
+i have no idea what im doing
 
 <!--
 **ikatsuu/ikatsuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
