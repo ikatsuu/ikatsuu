@@ -1,4 +1,4 @@
-##⚡ Fun fact:
+## ⚡ Fun fact:
 i have no idea what im doing
 
 <!--
